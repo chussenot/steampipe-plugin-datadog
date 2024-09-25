@@ -5,7 +5,7 @@ go 1.22.4
 toolchain go1.22.6
 
 require (
-	github.com/DataDog/datadog-api-client-go v1.5.0
+	github.com/DataDog/datadog-api-client-go v1.12.0
 	github.com/pkg/errors v0.9.1
 	github.com/turbot/steampipe-plugin-sdk/v5 v5.10.4
 )
